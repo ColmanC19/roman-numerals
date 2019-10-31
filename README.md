@@ -3,7 +3,7 @@
 ## Created by Colman Currie and Lara Bjork on October 31, 2019
 
 ### Project Description
-This project was completed as part of the Epidocus in-class curriculum. The task description was as follows:
+This project was completed as part of the Epicodus in-class curriculum. The task description was as follows:
 
 As stated in the prompt from Epicodus, the project objectives are to:
 
